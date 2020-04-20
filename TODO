@@ -1,8 +1,10 @@
 POSSIBLE IMPROVEMENTS:
+  Implement Random Forest
+  Implement Logistic Regression
   change stop word set
-  remove words less than three characters
+  remove words with less than three characters
   try a different lemmatizer
-  mark each word with its part of speech and exclude some from lemmatizer
+  mark each word with its part of speech and exclude some parts of speech from lemmatizer
 POSSIBLE FEATURES TO ADD:
   part of speech count ie: (verb: 6, noun: 4)
   length of headline?
